@@ -62,6 +62,7 @@ def main():
 def get_proximity_dataframe(text: list[tuple[str, str]],
                             targets: list[str],
                             window: int = 10) -> pd.DataFrame:
+    print('Generating adjective adjacency data via NLP...')
     neighbors = [
         word[0] for word in text
         if word[1] in ['JJ', 'JJR', 'JJS'] and word[1] not in targets
@@ -109,6 +110,7 @@ def get_proximity_dataframe(text: list[tuple[str, str]],
     for target in targets:
         if target in df.index:
             df.loc[target] = df.loc[target]/divisors[target]
+    print('Finished generating adjective adjacency data.')
     return df
 
 

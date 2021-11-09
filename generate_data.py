@@ -12,7 +12,7 @@ OUTPUT_DIR = p.OUTPUT_DIR
 def main():
     generate_data(data.lord_of_the_rings, 'lotr_non_specific_adjacency')
     generate_data(data.lolita, 'lolita_non_specific_adjacency')
-    generate_data(data.pride_and_prejudice, 'p_and_p_non_specific_adjacency')
+    # generate_data(data.pride_and_prejudice, 'p_and_p_non_specific_adjacency')
 
 
 def generate_data(dataset: str,
@@ -21,8 +21,9 @@ def generate_data(dataset: str,
         dataset['File Names'], TEXTS_DIR
     )
     tokenized_text = tag_w_pos_nlp(text)
-    df = get_proximity_dataframe(tokenized_text, dataset['Character Names'])
-    destination = os.path.join(OUTPUT_DIR, file_name)
+    df = get_proximity_dataframe(tokenized_text,
+                                 dataset['Character Names'])
+    destination = os.path.join(OUTPUT_DIR, file_name + '.csv')
     df.to_csv(destination)
 
 

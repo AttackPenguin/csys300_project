@@ -41,28 +41,28 @@ lord_of_the_rings = {
 
 lolita = {
     'Character Names': [
-        'Humbert',
-        'Lolita',
-        'Dolores',
-        'Clare',
-        'Charlotte',
-        'Annabel',
-        'Valeria',
-        'Jean',
-        'John',
-        'Dick',
-        'Rita',
-        'Mona',
-        'Gaston',
-        'Pratt',
-        'Ivor',
-        'Monique',
-        'Shirley',
-        'Charlie',
-        'Barbara',
-        'Vivian',
-        'Jack',
-        'Frederick'
+        'humbert',
+        'lolita',
+        'dolores',
+        'clare',
+        'charlotte',
+        'annabel',
+        'valeria',
+        'jean',
+        'john',
+        'dick',
+        'rita',
+        'mona',
+        'gaston',
+        'pratt',
+        'ivor',
+        'monique',
+        'shirley',
+        'charlie',
+        'barbara',
+        'vivian',
+        'jack',
+        'frederick'
     ],
     'File Names' : [
         'lolita.txt'
@@ -71,19 +71,18 @@ lolita = {
 
 pride_and_prejudice = {
     'Character Names': [
-        'Elizabeth',
-        'Fitzwilliam',
-        'Jane',
-        'Charles',
-        'George',
-        'Lydia',
-        'Collins',
-        'Bingley',
-        'Catherine',
-        'Charlotte',
-        'Georgiana',
-        'Mary',
-        'Catherine'
+        'elizabeth',
+        'fitzwilliam',
+        'jane',
+        'charles',
+        'george',
+        'lydia',
+        'collins',
+        'bingley',
+        'catherine',
+        'charlotte',
+        'georgiana',
+        'mary'
     ],
     'File Names': [
         'pride_and_prejudice.txt'

@@ -84,6 +84,7 @@ def print_words_with_counts(word_counts: dict[str, int],
         with open(save_to_file, 'w') as file:
             df = pd.DataFrame.from_dict(word_counts)
             df.to_csv(file, index=False, header=True)
+    print(f"Data saved to '{save_to_file}'")
 
 
 def tag_w_pos_nlp(text: list[str]) -> list[tuple[str, str]]:
