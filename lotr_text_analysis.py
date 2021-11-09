@@ -13,7 +13,7 @@ import os
 # cause any problems.
 # nltk.download('wordnet')
 
-directory = './original_texts'
+directory = './texts'
 
 # All characters whose names appear at least 50 times in all three books.
 # Extracted by review of output from methods below.
