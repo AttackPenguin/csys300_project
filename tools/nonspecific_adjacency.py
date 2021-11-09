@@ -2,8 +2,6 @@ from __future__ import annotations
 
 import numpy as np
 import pandas as pd
-from nltk import pos_tag
-import os
 
 import parameters as p
 from tools.preprocessing import tag_w_pos_nlp, load_and_prep_files
