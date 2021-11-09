@@ -1,0 +1,801 @@
+,ID,Fictional work,Character display name
+0,NCIS/1,NCIS,Leroy Jethro Gibbs
+1,NCIS/2,NCIS,Anthony DiNozzo
+2,NCIS/3,NCIS,Abby Sciuto
+3,NCIS/4,NCIS,Donald Mallard
+4,NCIS/5,NCIS,Timothy McGee
+5,NCIS/6,NCIS,Jimmy Palmer
+6,WD/1,The Walking Dead,Rick Grimes
+7,WD/2,The Walking Dead,Shane Walsh
+8,WD/3,The Walking Dead,Lori Grimes
+9,WD/4,The Walking Dead,Andrea
+10,WD/5,The Walking Dead,Dale Horvath
+11,WD/6,The Walking Dead,Glenn Rhee
+12,WD/7,The Walking Dead,Carl Grimes
+13,WD/8,The Walking Dead,Daryl Dixon
+14,WD/9,The Walking Dead,Carol Peletier
+15,WD/10,The Walking Dead,Merle Dixon
+16,BB/1,Breaking Bad,Walter White
+17,BB/2,Breaking Bad,Skyler White
+18,BB/3,Breaking Bad,Jesse Pinkman
+19,BB/4,Breaking Bad,Hank Schrader
+20,BB/5,Breaking Bad,Marie Schrader
+21,BB/6,Breaking Bad,Flynn White
+22,BB/7,Breaking Bad,Jimmy McGill
+23,BB/8,Breaking Bad,Gus Fring
+24,BB/9,Breaking Bad,Mike Ehrmantraut
+25,BB/10,Breaking Bad,Jane Margolis
+26,WO/1,The Wizard of Oz,Dorothy Gale
+27,WO/2,The Wizard of Oz,The Wizard of Oz
+28,WO/3,The Wizard of Oz,The Scarecrow
+29,WO/4,The Wizard of Oz,The Tin Man
+30,WO/5,The Wizard of Oz,The Cowardly Lion
+31,WO/6,The Wizard of Oz,The Wicked Witch of the West
+32,TIU/1,This Is Us,Jack Pearson
+33,TIU/2,This Is Us,Rebecca Pearson
+34,TIU/3,This Is Us,Randall Pearson
+35,TIU/4,This Is Us,Kate Pearson
+36,TIU/5,This Is Us,Kevin Pearson
+37,TIU/6,This Is Us,Beth Pearson
+38,TIU/7,This Is Us,Toby Damon
+39,TIU/8,This Is Us,William H. 'Shakespeare' Hill
+40,TIU/9,This Is Us,Miguel Rivas
+41,TIU/10,This Is Us,Sophie
+42,JP/1,Jurassic Park,Dr. Alan Grant
+43,JP/2,Jurassic Park,Dr. Ellie Sattler
+44,JP/3,Jurassic Park,Dr. Ian Malcolm
+45,JP/4,Jurassic Park,John Hammond
+46,JP/5,Jurassic Park,Ray Arnold
+47,JP/6,Jurassic Park,Dennis Nedry
+48,LK/1,The Lion King,Simba
+49,LK/2,The Lion King,Nala
+50,LK/3,The Lion King,Timon
+51,LK/4,The Lion King,Pumbaa
+52,LK/5,The Lion King,Scar
+53,LK/6,The Lion King,Mufasa
+54,WW/1,The West Wing,Josiah Bartlet
+55,WW/2,The West Wing,Leo McGarry
+56,WW/3,The West Wing,Josh Lyman
+57,WW/4,The West Wing,Toby Ziegler
+58,WW/5,The West Wing,Sam Seaborn
+59,WW/6,The West Wing,C. J. Cregg
+60,WW/7,The West Wing,Charlie Young
+61,WW/8,The West Wing,Donna Moss
+62,WW/9,The West Wing,Abbey Bartlet
+63,WW/10,The West Wing,Joey Lucas
+64,FNL/1,Friday Night Lights,Eric Taylor
+65,FNL/2,Friday Night Lights,Tami Taylor
+66,FNL/3,Friday Night Lights,Smash Williams
+67,FNL/4,Friday Night Lights,Matt Saracen
+68,FNL/5,Friday Night Lights,Lyla Garrity
+69,FNL/6,Friday Night Lights,Tim Riggins
+70,FNL/7,Friday Night Lights,Tyra Collette
+71,FNL/8,Friday Night Lights,Landry Clarke
+72,FNL/9,Friday Night Lights,Jason Street
+73,FNL/10,Friday Night Lights,Julie Taylor
+74,SsC/1,Schitt's Creek,Johnny Rose
+75,SsC/2,Schitt's Creek,Moira Rose
+76,SsC/3,Schitt's Creek,David Rose
+77,SsC/4,Schitt's Creek,Alexis Rose
+78,SsC/5,Schitt's Creek,Stevie Budd
+79,SsC/6,Schitt's Creek,Ted Mullens
+80,LW/1,Little Women,Jo March
+81,LW/2,Little Women,Meg March
+82,LW/3,Little Women,Amy March
+83,LW/4,Little Women,Beth March
+84,LW/5,Little Women,Marmee March
+85,LW/6,Little Women,Theodore Laurence
+86,SCDL/1,Scandal,Olivia Pope
+87,SCDL/2,Scandal,Abby Whelan
+88,SCDL/3,Scandal,Quinn Perkins
+89,SCDL/4,Scandal,Huck
+90,SCDL/5,Scandal,Cyrus Beene
+91,SCDL/6,Scandal,David Rosen
+92,SCDL/7,Scandal,Mellie Grant
+93,SCDL/8,Scandal,Fitzgerald Grant
+94,SCDL/9,Scandal,Jake Ballard
+95,SCDL/10,Scandal,Rowan Pope
+96,RH/1,Robin Hood,Robin Hood
+97,RH/2,Robin Hood,Maid Marian
+98,RH/3,Robin Hood,Little John
+99,RH/4,Robin Hood,Friar Tuck
+100,RH/5,Robin Hood,Prince John
+101,RH/6,Robin Hood,Sheriff of Nottingham
+102,RJ/1,Romeo and Juliet,Romeo Montague
+103,RJ/2,Romeo and Juliet,Juliet Capulet
+104,RJ/3,Romeo and Juliet,Friar Laurence
+105,RJ/4,Romeo and Juliet,Mercutio
+106,RJ/5,Romeo and Juliet,The Nurse
+107,RJ/6,Romeo and Juliet,Benvolio
+108,D/1,Dexter,Dexter Morgan
+109,D/2,Dexter,Rita Bennett
+110,D/3,Dexter,Debra Morgan
+111,D/4,Dexter,James Doakes
+112,D/5,Dexter,Maria LaGuerta
+113,D/6,Dexter,Angel Batista
+114,D/7,Dexter,Harry Morgan
+115,D/8,Dexter,Vince Masuka
+116,D/9,Dexter,Thomas Matthews
+117,D/10,Dexter,Joey Quinn
+118,GP/1,The Good Place,Eleanor Shellstrop
+119,GP/2,The Good Place,Chidi Anagonye
+120,GP/3,The Good Place,Tahani Al-Jamil
+121,GP/4,The Good Place,Janet
+122,GP/5,The Good Place,Jason Mendoza
+123,GP/6,The Good Place,Michael
+124,H/1,"House, M.D.",Dr. Gregory House
+125,H/2,"House, M.D.",Dr. Lisa Cuddy
+126,H/3,"House, M.D.",Dr. James Wilson
+127,H/4,"House, M.D.",Dr. Eric Foreman
+128,H/5,"House, M.D.",Dr. Robert Chase
+129,H/6,"House, M.D.",Dr. Allison Cameron
+130,L/1,LOST,Sayid Jarrah
+131,L/2,LOST,Claire Littleton
+132,L/3,LOST,Jack Shephard
+133,L/4,LOST,Hugo 'Hurley' Reyes
+134,L/5,LOST,Shannon Rutherford
+135,L/6,LOST,James 'Sawyer' Ford
+136,L/7,LOST,Benjamin Linus
+137,L/8,LOST,Jin-Soo Kwon
+138,L/9,LOST,Michael Dawson
+139,L/10,LOST,Desmond Hume
+140,L/11,LOST,Sun-Hwa Kwon
+141,L/12,LOST,Kate Austen
+142,L/13,LOST,Charlie Pace
+143,L/14,LOST,John Locke
+144,L/15,LOST,Juliet Burke
+145,GG/1,The Great Gatsby,Jay Gatsby
+146,GG/2,The Great Gatsby,Nick Carraway
+147,GG/3,The Great Gatsby,Daisy Buchanan
+148,GG/4,The Great Gatsby,Tom Buchanan
+149,GG/5,The Great Gatsby,Myrtle Wilson
+150,GG/6,The Great Gatsby,Jordan Baker
+151,T100/1,The 100,Clarke Griffin
+152,T100/2,The 100,Bellamy Blake
+153,T100/3,The 100,Octavia Blake
+154,T100/4,The 100,Raven Reyes
+155,T100/5,The 100,Dr. Abigail Griffin
+156,T100/6,The 100,John Murphy
+157,THM/1,Two and Half Men,Charlie Harper
+158,THM/2,Two and Half Men,Alan Harper
+159,THM/3,Two and Half Men,Jake Harper
+160,THM/4,Two and Half Men,Berta
+161,THM/5,Two and Half Men,Evelyn Harper
+162,THM/6,Two and Half Men,Judith Harper-Melnick
+163,T/1,Twilight,Bella Swan
+164,T/2,Twilight,Edward Cullen
+165,T/3,Twilight,Jacob Black
+166,T/4,Twilight,Charlie Swan
+167,T/5,Twilight,Carlisle Cullen
+168,T/6,Twilight,Esme Cullen
+169,T/7,Twilight,Alice Cullen
+170,T/8,Twilight,Emmett Cullen
+171,T/9,Twilight,Rosalie Hale
+172,T/10,Twilight,Jasper Hale
+173,GA/1,Grey's Anatomy,Meredith Grey
+174,GA/2,Grey's Anatomy,Cristina Yang
+175,GA/3,Grey's Anatomy,Izzie Stevens
+176,GA/4,Grey's Anatomy,Alex Karev
+177,GA/5,Grey's Anatomy,George O'Malley
+178,GA/6,Grey's Anatomy,Miranda Bailey
+179,GA/7,Grey's Anatomy,Richard Webber
+180,GA/8,Grey's Anatomy,Preston Burke
+181,GA/9,Grey's Anatomy,Derek Shepherd
+182,GA/10,Grey's Anatomy,Addison Montgomery
+183,SVU/1,Law & Order: SVU,Olivia Benson
+184,SVU/2,Law & Order: SVU,John Munch
+185,SVU/3,Law & Order: SVU,Donald Cragen
+186,SVU/4,Law & Order: SVU,Elliot Stabler
+187,SVU/5,Law & Order: SVU,Odafin Tutuola
+188,SVU/6,Law & Order: SVU,Melinda Warner
+189,BVS/1,Buffy the Vampire Slayer,Buffy Summers
+190,BVS/2,Buffy the Vampire Slayer,Xander Harris
+191,BVS/3,Buffy the Vampire Slayer,Willow Rosenberg
+192,BVS/4,Buffy the Vampire Slayer,Cordelia Chase
+193,BVS/5,Buffy the Vampire Slayer,Rupert Giles
+194,BVS/6,Buffy the Vampire Slayer,Angel
+195,T7S/1,That 70's Show,Eric Forman
+196,T7S/2,That 70's Show,Jackie Burkhart
+197,T7S/3,That 70's Show,Michael Kelso
+198,T7S/4,That 70's Show,Steven Hyde
+199,T7S/5,That 70's Show,Donna Pinciotti
+200,T7S/6,That 70's Show,Fez
+201,T7S/7,That 70's Show,Kitty Forman
+202,T7S/8,That 70's Show,Red Forman
+203,T7S/9,That 70's Show,Midge Pinciotti
+204,T7S/10,That 70's Show,Bob Pinciotti
+205,SW/1,Star Wars,Luke Skywalker
+206,SW/2,Star Wars,Princess Leia
+207,SW/3,Star Wars,Han Solo
+208,SW/4,Star Wars,Darth Vader
+209,SW/5,Star Wars,Obi-Wan Kenobi
+210,SW/6,Star Wars,C-3PO
+211,HP/1,Harry Potter,Ron Weasley
+212,HP/2,Harry Potter,Harry Potter
+213,HP/3,Harry Potter,Hermione Granger
+214,HP/4,Harry Potter,Rubeus Hagrid
+215,HP/5,Harry Potter,Albus Dumbledore
+216,HP/6,Harry Potter,Minerva McGonagall
+217,HP/7,Harry Potter,Severus Snape
+218,HP/8,Harry Potter,Ginny Weasley
+219,HP/9,Harry Potter,Luna Lovegood
+220,HP/10,Harry Potter,Draco Malfoy
+221,HP/11,Harry Potter,Molly Weasley
+222,HP/12,Harry Potter,Lord Voldemort
+223,HP/13,Harry Potter,Cho Chang
+224,HP/14,Harry Potter,Fleur Delacour
+225,HP/15,Harry Potter,Viktor Krum
+226,HP/16,Harry Potter,Filius Flitwick
+227,HP/17,Harry Potter,Horace Slughorn
+228,HP/18,Harry Potter,George Weasley
+229,HP/19,Harry Potter,Alastor Moody
+230,HP/20,Harry Potter,Remus Lupin
+231,HP/21,Harry Potter,Arthur Weasley
+232,HP/22,Harry Potter,Cornelius Fudge
+233,HP/23,Harry Potter,Dolores Umbridge
+234,HP/24,Harry Potter,Petunia Dursley
+235,HP/25,Harry Potter,Moaning Myrtle
+236,HP/26,Harry Potter,Rita Skeeter
+237,HP/27,Harry Potter,Dobby
+238,HP/28,Harry Potter,Bellatrix Lestrange
+239,HP/29,Harry Potter,Nymphadora Tonks
+240,HP/30,Harry Potter,Sirius Black
+241,CRA/1,Crazy Rich Asians,Rachel Chu
+242,CRA/2,Crazy Rich Asians,Nick Young
+243,CRA/3,Crazy Rich Asians,Eleanor Sung-Young
+244,CRA/4,Crazy Rich Asians,Goh Peik Lin
+245,CRA/5,Crazy Rich Asians,Astrid Leong-Teo
+246,CRA/6,Crazy Rich Asians,Colin Khoo
+247,HG/1,The Hunger Games,Katniss Everdeen
+248,HG/2,The Hunger Games,Peeta Mellark
+249,HG/3,The Hunger Games,Haymitch Abernathy
+250,HG/4,The Hunger Games,Effie Trinket
+251,HG/5,The Hunger Games,Coriolanus Snow
+252,HG/6,The Hunger Games,Gale Hawthorne
+253,PR/1,Parks and Recreation,Leslie Knope
+254,PR/2,Parks and Recreation,Ann Perkins
+255,PR/3,Parks and Recreation,Mark Brendanawicz
+256,PR/4,Parks and Recreation,Tom Haverford
+257,PR/5,Parks and Recreation,Ron Swanson
+258,PR/6,Parks and Recreation,April Ludgate
+259,PP/1,Pride and Prejudice,Mr. Darcy
+260,PP/2,Pride and Prejudice,Elizabeth Bennet
+261,PP/3,Pride and Prejudice,Mr. William Collins
+262,PP/4,Pride and Prejudice,George Wickham
+263,PP/5,Pride and Prejudice,Charles Bingley
+264,PP/6,Pride and Prejudice,Georgiana Darcy
+265,PP/7,Pride and Prejudice,Lydia Bennet
+266,PP/8,Pride and Prejudice,Jane Bennet
+267,PP/9,Pride and Prejudice,Mrs. Bennet
+268,PP/10,Pride and Prejudice,Lady Catherine de Bourgh
+269,DS9/1,Star Trek: Deep Space Nine,Jadzia Dax
+270,DS9/2,Star Trek: Deep Space Nine,Odo
+271,DS9/3,Star Trek: Deep Space Nine,Worf
+272,DS9/4,Star Trek: Deep Space Nine,Nog
+273,DS9/5,Star Trek: Deep Space Nine,Quark
+274,DS9/6,Star Trek: Deep Space Nine,Benjamin Sisko
+275,DS9/7,Star Trek: Deep Space Nine,Elim Garak
+276,DS9/8,Star Trek: Deep Space Nine,Kira Nerys
+277,DS9/9,Star Trek: Deep Space Nine,Julian Bashir
+278,DS9/10,Star Trek: Deep Space Nine,Dukat
+279,DS9/11,Star Trek: Deep Space Nine,Rom
+280,DS9/12,Star Trek: Deep Space Nine,Miles O'Brien
+281,DS9/13,Star Trek: Deep Space Nine,Jake Sisko
+282,DS9/14,Star Trek: Deep Space Nine,Winn Adami
+283,DS9/15,Star Trek: Deep Space Nine,Kasidy Yates
+284,MNT/1,The Mentalist,Patrick Jane
+285,MNT/2,The Mentalist,Teresa Lisbon
+286,MNT/3,The Mentalist,Kimball Cho
+287,MNT/4,The Mentalist,Wayne Rigsby
+288,MNT/5,The Mentalist,Grace Van Pelt
+289,MNT/6,The Mentalist,Red John
+290,PB/1,Prison Break,Lincoln Burrows
+291,PB/2,Prison Break,Michael Scofield
+292,PB/3,Prison Break,Veronica Donovan
+293,PB/4,Prison Break,Fernando Sucre
+294,PB/5,Prison Break,"Lincoln 'L.J.' Burrows, Jr."
+295,PB/6,Prison Break,Brad Bellick
+296,PB/7,Prison Break,Theodore 'T-Bag' Bagwell
+297,PB/8,Prison Break,Sara Tancredi
+298,PB/9,Prison Break,Benjamin Miles 'C-Note' Franklin
+299,PB/10,Prison Break,John Abruzzi
+300,PC/1,Pirates of the Caribbean,Jack Sparrow
+301,PC/2,Pirates of the Caribbean,Hector Barbossa
+302,PC/3,Pirates of the Caribbean,Joshamee Gibbs
+303,PC/4,Pirates of the Caribbean,Will Turner
+304,PC/5,Pirates of the Caribbean,Elizabeth Swann
+305,PC/6,Pirates of the Caribbean,James Norrington
+306,PF/1,Pulp Fiction,Vincent Vega
+307,PF/2,Pulp Fiction,Jules Winnfield
+308,PF/3,Pulp Fiction,Mia Wallace
+309,PF/4,Pulp Fiction,Ringo
+310,PF/5,Pulp Fiction,Marsellus Wallace
+311,PF/6,Pulp Fiction,Butch Coolidge
+312,C/1,Community,Jeff Winger
+313,C/2,Community,Britta Perry
+314,C/3,Community,Abed Nadir
+315,C/4,Community,Troy Barnes
+316,C/5,Community,Annie Edison
+317,C/6,Community,Shirley Bennett
+318,C/7,Community,Pierce Hawthorne
+319,C/8,Community,Craig Pelton
+320,C/9,Community,Ben Chang
+321,C/10,Community,Ian Duncan
+322,G/1,Girls,Hannah Horvath
+323,G/2,Girls,Marnie Michaels
+324,G/3,Girls,Jessa Johansson
+325,G/4,Girls,Shoshanna Shapiro
+326,G/5,Girls,Adam Sackler
+327,G/6,Girls,Ray Ploshansky
+328,O/1,Ozark,Marty Byrde
+329,O/2,Ozark,Wendy Byrde
+330,O/3,Ozark,Charlotte Byrde
+331,O/4,Ozark,Jonah Byrde
+332,O/5,Ozark,Ruth Langmore
+333,O/6,Ozark,Rachel Garrison
+334,O/7,Ozark,Roy Petty
+335,O/8,Ozark,Jacob Snell
+336,O/9,Ozark,Darlene Snell
+337,O/10,Ozark,Wyatt Langmore
+338,S/1,The Simpsons,Homer Simpson
+339,S/2,The Simpsons,Bart Simpson
+340,S/3,The Simpsons,Marge Simpson
+341,S/4,The Simpsons,Lisa Simpson
+342,S/5,The Simpsons,Apu Nahasapeemapetilon
+343,S/6,The Simpsons,Mr. Burns
+344,S/7,The Simpsons,Ned Flanders
+345,S/8,The Simpsons,Milhouse Van Houten
+346,S/9,The Simpsons,Moe Szyslak
+347,S/10,The Simpsons,Nelson Muntz
+348,S/11,The Simpsons,Krusty the Clown
+349,S/12,The Simpsons,Edna Krabappel
+350,S/13,The Simpsons,Waylon Smithers
+351,S/14,The Simpsons,Barney Gumble
+352,S/15,The Simpsons,Principal Skinner
+353,MG/1,Mean Girls,Cady Heron
+354,MG/2,Mean Girls,Regina George
+355,MG/3,Mean Girls,Gretchen Wieners
+356,MG/4,Mean Girls,Karen Smith
+357,MG/5,Mean Girls,Janis Ian
+358,MG/6,Mean Girls,Damian Leigh
+359,MG/7,Mean Girls,Aaron Samuels
+360,MG/8,Mean Girls,Ms. Sharon Norbury
+361,MG/9,Mean Girls,June George
+362,MG/10,Mean Girls,Betsy Heron
+363,MM/1,Mad Men,Don Draper
+364,MM/2,Mad Men,Peggy Olson
+365,MM/3,Mad Men,Pete Campbell
+366,MM/4,Mad Men,Betty Draper
+367,MM/5,Mad Men,Joan Holloway
+368,MM/6,Mad Men,Salvatore Romano
+369,MM/7,Mad Men,Paul Kinsey
+370,MM/8,Mad Men,Ken Cosgrove
+371,MM/9,Mad Men,Harry Crane
+372,MM/10,Mad Men,Rachel Menken
+373,MM/11,Mad Men,Roger Sterling
+374,MM/12,Mad Men,Bert Cooper
+375,MM/13,Mad Men,Henry Francis
+376,MM/14,Mad Men,Lane Pryce
+377,MM/15,Mad Men,Stan Rizzo
+378,GLEE/1,Glee,Kurt Hummel
+379,GLEE/2,Glee,Sue Sylvester
+380,GLEE/3,Glee,Rachel Berry
+381,GLEE/4,Glee,Will Schuester
+382,GLEE/5,Glee,Artie Abrams
+383,GLEE/6,Glee,Santana Lopez
+384,GLEE/7,Glee,Tina Cohen-Chang
+385,GLEE/8,Glee,Mercedes Jones
+386,GLEE/9,Glee,Noah Puckerman
+387,GLEE/10,Glee,Brittany Pierce
+388,TNG/1,Star Trek: The Next Generation,Jean-Luc Picard
+389,TNG/2,Star Trek: The Next Generation,William Riker
+390,TNG/3,Star Trek: The Next Generation,Geordi La Forge
+391,TNG/4,Star Trek: The Next Generation,Tasha Yar
+392,TNG/5,Star Trek: The Next Generation,Worf
+393,TNG/6,Star Trek: The Next Generation,Beverly Crusher
+394,TNG/7,Star Trek: The Next Generation,Deanna Troi
+395,TNG/8,Star Trek: The Next Generation,Wesley Crusher
+396,TNG/9,Star Trek: The Next Generation,Data
+397,TNG/10,Star Trek: The Next Generation,Guinan
+398,OFOCN/1,One Flew Over the Cuckoo's Nest,Randle Patrick McMurphy
+399,OFOCN/2,One Flew Over the Cuckoo's Nest,Nurse Mildred Ratched
+400,OFOCN/3,One Flew Over the Cuckoo's Nest,'Chief' Bromden
+401,OFOCN/4,One Flew Over the Cuckoo's Nest,Dale Harding
+402,OFOCN/5,One Flew Over the Cuckoo's Nest,Billy Bibbit
+403,OFOCN/6,One Flew Over the Cuckoo's Nest,Charlie Cheswick
+404,CBP/1,Cowboy Bebop,Spike Spiegel
+405,CBP/2,Cowboy Bebop,Jet Black
+406,CBP/3,Cowboy Bebop,Faye Valentine
+407,CBP/4,Cowboy Bebop,Ed
+408,CBP/5,Cowboy Bebop,Vicious
+409,CBP/6,Cowboy Bebop,Julia
+410,SCRUBS/1,Scrubs,John Michael Dorian
+411,SCRUBS/2,Scrubs,Elliot Reid
+412,SCRUBS/3,Scrubs,Christopher Turk
+413,SCRUBS/4,Scrubs,Bob Kelso
+414,SCRUBS/5,Scrubs,Perry Cox
+415,SCRUBS/6,Scrubs,Carla Espinosa
+416,FS/1,Firefly + Serenity,Malcolm Reynolds
+417,FS/2,Firefly + Serenity,River Tam
+418,FS/3,Firefly + Serenity,Inara Serra
+419,FS/4,Firefly + Serenity,Kaylee Frye
+420,FS/5,Firefly + Serenity,Zoe Washburne
+421,FS/6,Firefly + Serenity,Hoban Washburne
+422,FS/7,Firefly + Serenity,Jayne Cobb
+423,FS/8,Firefly + Serenity,Derrial Book
+424,FS/9,Firefly + Serenity,Simon Tam
+425,FS/10,Firefly + Serenity,The Operative
+426,B99/1,Brooklyn Nine-Nine,Jake Peralta
+427,B99/2,Brooklyn Nine-Nine,Rosa Diaz
+428,B99/3,Brooklyn Nine-Nine,Terry Jeffords
+429,B99/4,Brooklyn Nine-Nine,Amy Santiago
+430,B99/5,Brooklyn Nine-Nine,Charles Boyle
+431,B99/6,Brooklyn Nine-Nine,Raymond Holt
+432,FC/1,Fight Club,Tyler Durden
+433,FC/2,Fight Club,The Narrator
+434,FC/3,Fight Club,Marla Singer
+435,FG/1,Forrest Gump,Forrest Gump
+436,FG/2,Forrest Gump,Jenny Curran
+437,FG/3,Forrest Gump,Dan Taylor
+438,MASH/1,M*A*S*H,Benjamin 'Hawkeye' Pierce
+439,MASH/2,M*A*S*H,Margaret 'Hot Lips' Houlihan
+440,MASH/3,M*A*S*H,Maxwell Klinger
+441,MASH/4,M*A*S*H,Francis Mulcahy
+442,MASH/5,M*A*S*H,Frank Burns
+443,MASH/6,M*A*S*H,Walter 'Radar' O'Reilly
+444,BSG/1,Battlestar Galactica,William Adama
+445,BSG/2,Battlestar Galactica,Laura Roslin
+446,BSG/3,Battlestar Galactica,Kara 'Starbuck' Thrace
+447,BSG/4,Battlestar Galactica,Lee 'Apollo' Adama
+448,BSG/5,Battlestar Galactica,Gaius Baltar
+449,BSG/6,Battlestar Galactica,Number Six
+450,BSG/7,Battlestar Galactica,Sharon 'Boomer' Valerii
+451,BSG/8,Battlestar Galactica,Saul Tigh
+452,BSG/9,Battlestar Galactica,Galen Tyrol
+453,BSG/10,Battlestar Galactica,Karl 'Helo' Agathon
+454,BSG/11,Battlestar Galactica,Felix Gaeta
+455,BSG/12,Battlestar Galactica,Anastasia Dualla
+456,BSG/13,Battlestar Galactica,Billy Keikeya
+457,BSG/14,Battlestar Galactica,Cally Henderson
+458,BSG/15,Battlestar Galactica,Samuel 'Longshot' Anders
+459,HGAWM/1,How To Get Away With Murder,Annalise Keating
+460,HGAWM/2,How To Get Away With Murder,Nate Lahey
+461,HGAWM/3,How To Get Away With Murder,Connor Walsh
+462,HGAWM/4,How To Get Away With Murder,Michaela Pratt
+463,HGAWM/5,How To Get Away With Murder,Asher Millstone
+464,HGAWM/6,How To Get Away With Murder,Frank Delfino
+465,HGAWM/7,How To Get Away With Murder,Bonnie Winterbottom
+466,HGAWM/8,How To Get Away With Murder,Oliver Hampton
+467,HGAWM/9,How To Get Away With Murder,Laurel Castillo
+468,HGAWM/10,How To Get Away With Murder,Wes Gibbins
+469,F/1,Friends,Rachel Green
+470,F/2,Friends,Monica Geller
+471,F/3,Friends,Phoebe Buffay
+472,F/4,Friends,Joey Tribbiani
+473,F/5,Friends,Chandler Bing
+474,F/6,Friends,Ross Geller
+475,CB/1,Casablanca,Rick Blaine
+476,CB/2,Casablanca,Ilsa Lund
+477,CB/3,Casablanca,Victor Laszlo
+478,XF/1,The X-Files,Fox Mulder
+479,XF/2,The X-Files,Dana Scully
+480,XF/3,The X-Files,Walter Skinner
+481,DUNE/1,Dune,Paul Atreides
+482,DUNE/2,Dune,Lady Jessica
+483,DUNE/3,Dune,Duke Leto Atreides
+484,DUNE/4,Dune,Baron Vladimir Harkonnen
+485,DUNE/5,Dune,Thufir Hawat
+486,DUNE/6,Dune,Chani
+487,R/1,The Room,Johnny
+488,R/2,The Room,Lisa
+489,R/3,The Room,Mark
+490,R/4,The Room,Denny
+491,R/5,The Room,Peter
+492,R/6,The Room,Michelle
+493,BBT/1,The Big Bang Theory,Leonard Hofstadter
+494,BBT/2,The Big Bang Theory,Sheldon Cooper
+495,BBT/3,The Big Bang Theory,Penny
+496,BBT/4,The Big Bang Theory,Howard Wolowitz
+497,BBT/5,The Big Bang Theory,Raj Koothrappali
+498,BBT/6,The Big Bang Theory,Leslie Winkle
+499,BBT/7,The Big Bang Theory,Bernadette Rostenkowski
+500,BBT/8,The Big Bang Theory,Amy Farrah Fowler
+501,BBT/9,The Big Bang Theory,Stuart Bloom
+502,BBT/10,The Big Bang Theory,Mary Cooper
+503,RLA/1,Raiders of the Lost Ark,Indiana Jones
+504,RLA/2,Raiders of the Lost Ark,Marion Ravenwood
+505,RLA/3,Raiders of the Lost Ark,Dr. Rene Belloq
+506,RLA/4,Raiders of the Lost Ark,Major Arnold Toht
+507,RLA/5,Raiders of the Lost Ark,Sallah
+508,RLA/6,Raiders of the Lost Ark,Dr. Marcus Brody
+509,SV/1,Silicon Valley,Richard Hendricks
+510,SV/2,Silicon Valley,Erlich Bachman
+511,SV/3,Silicon Valley,Nelson Bighetti
+512,SV/4,Silicon Valley,Bertram Gilfoyle
+513,SV/5,Silicon Valley,Dinesh Chugtai
+514,SV/6,Silicon Valley,Peter Gregory
+515,SV/7,Silicon Valley,Monica Hall
+516,SV/8,Silicon Valley,Jared Dunn
+517,SV/9,Silicon Valley,Gavin Belson
+518,SV/10,Silicon Valley,Jian-Yang
+519,ALA/1,Avatar: The Last Airbender,Aang
+520,ALA/2,Avatar: The Last Airbender,Zuko
+521,ALA/3,Avatar: The Last Airbender,Katara
+522,ALA/4,Avatar: The Last Airbender,Toph Beifong
+523,ALA/5,Avatar: The Last Airbender,Sokka
+524,ALA/6,Avatar: The Last Airbender,Azula
+525,ALA/7,Avatar: The Last Airbender,Iroh
+526,ALA/8,Avatar: The Last Airbender,Firelord Ozai
+527,ALA/9,Avatar: The Last Airbender,Ty Lee
+528,ALA/10,Avatar: The Last Airbender,Hakoda
+529,GBU/1,"The Good, the Bad, and the Ugly",Blondie
+530,GBU/2,"The Good, the Bad, and the Ugly",Angel Eyes
+531,GBU/3,"The Good, the Bad, and the Ugly",Tuco
+532,SL/1,Sherlock,Sherlock Holmes
+533,SL/2,Sherlock,Dr. John Watson
+534,SL/3,Sherlock,D.I. Greg Lestrade
+535,SL/4,Sherlock,Mrs. Hudson
+536,SL/5,Sherlock,Mycroft Holmes
+537,SL/6,Sherlock,Molly Hooper
+538,SC/1,Sex and the City,Carrie Bradshaw
+539,SC/2,Sex and the City,Charlotte York
+540,SC/3,Sex and the City,Miranda Hobbes
+541,SC/4,Sex and the City,Samantha Jones
+542,SC/5,Sex and the City,Mr. Big
+543,SC/6,Sex and the City,Steve Brady
+544,SB/1,Superbad,Seth
+545,SB/2,Superbad,Evan
+546,SB/3,Superbad,Fogell (McLovin)
+547,SB/4,Superbad,Jules
+548,SB/5,Superbad,Becca
+549,SB/6,Superbad,Officer Slater
+550,SF/1,Seinfeld,Jerry Seinfeld
+551,SF/2,Seinfeld,George Costanza
+552,SF/3,Seinfeld,Elaine Benes
+553,SF/4,Seinfeld,Cosmo Kramer
+554,SF/5,Seinfeld,Morty Seinfeld
+555,SF/6,Seinfeld,Helen Seinfeld
+556,DK/1,The Dark Knight,Bruce Wayne
+557,DK/2,The Dark Knight,Alfred Pennyworth
+558,DK/3,The Dark Knight,The Joker
+559,DK/4,The Dark Knight,James Gordon
+560,DK/5,The Dark Knight,Harvey Dent
+561,DK/6,The Dark Knight,Rachel Dawes
+562,DK/7,The Dark Knight,Lucius Fox
+563,DK/8,The Dark Knight,Anthony Garcia
+564,DK/9,The Dark Knight,Lau
+565,DK/10,The Dark Knight,Sal Maroni
+566,DH/1,Desperate Housewives,Susan Mayer
+567,DH/2,Desperate Housewives,Lynette Scavo
+568,DH/3,Desperate Housewives,Bree Van de Kamp
+569,DH/4,Desperate Housewives,Gabrielle Solis
+570,DH/5,Desperate Housewives,Edie Britt
+571,DH/6,Desperate Housewives,Carlos Solis
+572,DH/7,Desperate Housewives,Julie Mayer
+573,DH/8,Desperate Housewives,Mary Alice Young
+574,DH/9,Desperate Housewives,Mike Delfino
+575,DH/10,Desperate Housewives,Tom Scavo
+576,CAS/1,Chilling Adventures of Sabrina,Sabrina Spellman
+577,CAS/2,Chilling Adventures of Sabrina,Harvey Kinkle
+578,CAS/3,Chilling Adventures of Sabrina,Hilda Spellman
+579,CAS/4,Chilling Adventures of Sabrina,Ambrose Spellman
+580,CAS/5,Chilling Adventures of Sabrina,Mary Wardwell
+581,CAS/6,Chilling Adventures of Sabrina,Rosalind Walker
+582,CAS/7,Chilling Adventures of Sabrina,Prudence Night
+583,CAS/8,Chilling Adventures of Sabrina,Agatha
+584,CAS/9,Chilling Adventures of Sabrina,Father Faustus Blackwood
+585,CAS/10,Chilling Adventures of Sabrina,Zelda Spellman
+586,DA/1,Downton Abbey,"Robert Crawley, 7th Earl of Grantham"
+587,DA/2,Downton Abbey,Lady Sybil Crawley
+588,DA/3,Downton Abbey,Lady Edith Crawley
+589,DA/4,Downton Abbey,Charlie Carson
+590,DA/5,Downton Abbey,John Bates
+591,DA/6,Downton Abbey,Lady Mary Crawley
+592,DA/7,Downton Abbey,Sarah O'Brien
+593,DA/8,Downton Abbey,Anna Bates
+594,DA/9,Downton Abbey,Elsie Carson
+595,DA/10,Downton Abbey,William Mason
+596,DA/11,Downton Abbey,Thomas Barrow
+597,DA/12,Downton Abbey,"Cora Crawley, Countess of Grantham"
+598,DA/13,Downton Abbey,Daisy Mason
+599,DA/14,Downton Abbey,Beryl Patmore
+600,DA/15,Downton Abbey,"Violet Crawley, Dowager Countess of Grantham"
+601,WSW/1,Westworld,Dolores Abernathy
+602,WSW/2,Westworld,Maeve Millay
+603,WSW/3,Westworld,Bernard Lowe
+604,WSW/4,Westworld,Teddy Flood
+605,WSW/5,Westworld,Ashley Stubbs
+606,WSW/6,Westworld,Lee Sizemore
+607,WSW/7,Westworld,Elsie Hughes
+608,WSW/8,Westworld,Man in Black
+609,WSW/9,Westworld,Robert Ford
+610,WSW/10,Westworld,Theresa Cullen
+611,WSW/11,Westworld,Charlotte Hale
+612,WSW/12,Westworld,Akecheta
+613,WSW/13,Westworld,Clementine Pennyfeather
+614,WSW/14,Westworld,Logan Delos
+615,WSW/15,Westworld,Felix Lutz
+616,ONB/1,Orange is the New Black,Piper Chapman
+617,ONB/2,Orange is the New Black,Alex Vause
+618,ONB/3,Orange is the New Black,Sam Healy
+619,ONB/4,Orange is the New Black,Red Reznikov
+620,ONB/5,Orange is the New Black,Crazy Eyes
+621,ONB/6,Orange is the New Black,Taystee Jefferson
+622,ONB/7,Orange is the New Black,Nicky Nichols
+623,ONB/8,Orange is the New Black,Pennsatucky Doggett
+624,ONB/9,Orange is the New Black,Lorna Morello
+625,ONB/10,Orange is the New Black,Flaca Gonzales
+626,TW/1,The Wire,Cedric Daniels
+627,TW/2,The Wire,Jimmy McNulty
+628,TW/3,The Wire,Kima Greggs
+629,TW/4,The Wire,Lester Freamon
+630,TW/5,The Wire,Bunk Moreland
+631,TW/6,The Wire,Thomas 'Herc' Hauk
+632,TW/7,The Wire,Ellis Carver
+633,TW/8,The Wire,Reginald 'Bubbles' Cousins
+634,TW/9,The Wire,William Rawls
+635,TW/10,The Wire,Roland 'Prez' Pryzbylewski
+636,TW/11,The Wire,Rhonda Pearlman
+637,TW/12,The Wire,Omar Little
+638,TW/13,The Wire,Ervin Burrell
+639,TW/14,The Wire,Preston 'Bodie' Broadus
+640,TW/15,The Wire,Russell 'Stringer' Bell
+641,TW/16,The Wire,Tommy Carcetti
+642,TW/17,The Wire,Avon Barksdale
+643,TW/18,The Wire,Chris Partlow
+644,TW/19,The Wire,Norman Wilson
+645,TW/20,The Wire,Michael Lee
+646,TW/21,The Wire,Maurice Levy
+647,TW/22,The Wire,Beatrice 'Beadie' Russell
+648,TW/23,The Wire,Dennis 'Cutty' Wise
+649,TW/24,The Wire,D'Angelo Barksdale
+650,TW/25,The Wire,Clay Davis
+651,TW/26,The Wire,Clarence Royce
+652,TW/27,The Wire,Spiros 'Vondas' Vondopoulos
+653,TW/28,The Wire,Frank Sobotka
+654,TW/29,The Wire,Ziggy Sobotka
+655,TW/30,The Wire,Nick Sobotka
+656,TS/1,Toy Story,Woody
+657,TS/2,Toy Story,Buzz Lightyear
+658,TS/3,Toy Story,Mr. Potato Head
+659,TS/4,Toy Story,Rex
+660,TS/5,Toy Story,Bo Peep
+661,TS/6,Toy Story,Sid Phillips
+662,TP/1,Twin Peaks,Dale Cooper
+663,TP/2,Twin Peaks,Sheriff Truman
+664,TP/3,Twin Peaks,Shelly Johnson
+665,TP/4,Twin Peaks,Bobby Briggs
+666,TP/5,Twin Peaks,Benjamin Horne
+667,TP/6,Twin Peaks,Audrey Horne
+668,TP/7,Twin Peaks,Norma Jennings
+669,TP/8,Twin Peaks,James Hurley
+670,TP/9,Twin Peaks,Ed Hurley
+671,TP/10,Twin Peaks,Pete Martell
+672,TP/11,Twin Peaks,Leland Palmer
+673,TP/12,Twin Peaks,Josie Packard
+674,TP/13,Twin Peaks,Catherine Martell
+675,TP/14,Twin Peaks,Lucy Moran
+676,TP/15,Twin Peaks,Donna Hayward
+677,TO/1,The Office,Michael Scott
+678,TO/2,The Office,Dwight Schrute
+679,TO/3,The Office,Jim Halpert
+680,TO/4,The Office,Pam Beesly
+681,TO/5,The Office,Ryan Howard
+682,TO/6,The Office,Andy Bernard
+683,TO/7,The Office,Jan Levinson
+684,TO/8,The Office,Stanley Hudson
+685,TO/9,The Office,Kevin Malone
+686,TO/10,The Office,Meredith Palmer
+687,TO/11,The Office,Angela Martin
+688,TO/12,The Office,Phyllis Lapin
+689,TO/13,The Office,Kelly Kapoor
+690,TO/14,The Office,Kelly Erin Hannon
+691,TO/15,The Office,Robert California
+692,TD/1,True Detective,Rust Cohle
+693,TD/2,True Detective,Marty Hart
+694,TD/3,True Detective,Maggie Hart
+695,A/1,Alien,Dallas
+696,A/2,Alien,Ellen Ripley
+697,A/3,Alien,Lambert
+698,A/4,Alien,Ash
+699,A/5,Alien,the Alien
+700,A/6,Alien,Parker
+701,AD/1,Arrested Development,Michael Bluth
+702,AD/2,Arrested Development,Lindsay Bluth Funke
+703,AD/3,Arrested Development,George Oscar 'Gob' Bluth
+704,AD/4,Arrested Development,George Michael Bluth
+705,AD/5,Arrested Development,Maeby Funke
+706,AD/6,Arrested Development,Buster Bluth
+707,AD/7,Arrested Development,Tobias Funke
+708,AD/8,Arrested Development,"George Bluth, Sr."
+709,AD/9,Arrested Development,Oscar Bluth
+710,AD/10,Arrested Development,Lucille Bluth
+711,SG1/1,Stargate SG-1,Jack O'Neill
+712,SG1/2,Stargate SG-1,Daniel Jackson
+713,SG1/3,Stargate SG-1,Samantha Carter
+714,SG1/4,Stargate SG-1,Teal'c
+715,SG1/5,Stargate SG-1,George S. Hammond
+716,SG1/6,Stargate SG-1,Janet Fraiser
+717,AK/1,Anna Karenina,Princess Anna Karenina
+718,AK/2,Anna Karenina,Count Alexei Karenin
+719,AK/3,Anna Karenina,Count Alexei Vronsky
+720,AK/4,Anna Karenina,Princess Darya 'Dolly' Oblonskaya
+721,AK/5,Anna Karenina,Prince Stepan 'Stiva' Oblonsky
+722,AK/6,Anna Karenina,Konstantin 'Kostya' Levin
+723,AK/7,Anna Karenina,Princess Elizaveta 'Betsy' Tverskaya
+724,AK/8,Anna Karenina,Princess Ekaterina 'Kitty' Shcherbatskaya
+725,AK/9,Anna Karenina,Countess Vronskaya
+726,AK/10,Anna Karenina,Countess Lidia Ivanovna
+727,M/1,The Matrix,Neo
+728,M/2,The Matrix,Morpheus
+729,M/3,The Matrix,Trinity
+730,M/4,The Matrix,Agent Smith
+731,M/5,The Matrix,Cypher
+732,M/6,The Matrix,The Oracle
+733,AS/1,Atlas Shrugged,Dagny Taggart
+734,AS/2,Atlas Shrugged,Henry Rearden
+735,AS/3,Atlas Shrugged,James Taggart
+736,AS/4,Atlas Shrugged,John Galt
+737,AS/5,Atlas Shrugged,Ellis Wyatt
+738,AS/6,Atlas Shrugged,Francisco d'Anconia
+739,GOT/1,Game of Thrones,Jon Snow
+740,GOT/2,Game of Thrones,Tyrion Lannister
+741,GOT/3,Game of Thrones,Daenerys Targaryen
+742,GOT/4,Game of Thrones,Sansa Stark
+743,GOT/5,Game of Thrones,Arya Stark
+744,GOT/6,Game of Thrones,Jaime Lannister
+745,GOT/7,Game of Thrones,Samwell Tarly
+746,GOT/8,Game of Thrones,Jorah Mormont
+747,GOT/9,Game of Thrones,Theon Greyjoy
+748,GOT/10,Game of Thrones,Petyr Baelish
+749,GOT/11,Game of Thrones,Davos Seaworth
+750,GOT/12,Game of Thrones,Eddard Stark
+751,GOT/13,Game of Thrones,Brandon Stark
+752,GOT/14,Game of Thrones,Brienne of Tarth
+753,GOT/15,Game of Thrones,Sandor Clegane
+754,GOT/16,Game of Thrones,Varys
+755,GOT/17,Game of Thrones,Catelyn Stark
+756,GOT/18,Game of Thrones,Tywin Lannister
+757,GOT/19,Game of Thrones,Margaery Tyrell
+758,GOT/20,Game of Thrones,Robb Stark
+759,GOT/21,Game of Thrones,Bronn
+760,GOT/22,Game of Thrones,Stannis Baratheon
+761,GOT/23,Game of Thrones,Joffrey Baratheon
+762,GOT/24,Game of Thrones,Melisandre
+763,GOT/25,Game of Thrones,Olenna Tyrell
+764,GOT/26,Game of Thrones,Ygritte
+765,GOT/27,Game of Thrones,Cersei Lannister
+766,GOT/28,Game of Thrones,Shae
+767,GOT/29,Game of Thrones,Oberyn Martell
+768,GOT/30,Game of Thrones,Asha Greyjoy
+769,I/1,Inception,Dom Cobb
+770,I/2,Inception,Arthur
+771,I/3,Inception,Ariadne
+772,I/4,Inception,Mal Cobb
+773,I/5,Inception,Mr. Saito
+774,I/6,Inception,Robert Fischer
+775,LOTR/1,Lord of the Rings,Frodo Baggins
+776,LOTR/2,Lord of the Rings,Aragorn
+777,LOTR/3,Lord of the Rings,Boromir
+778,LOTR/4,Lord of the Rings,Merry Brandybuck
+779,LOTR/5,Lord of the Rings,Samwise Gamgee
+780,LOTR/6,Lord of the Rings,Gandalf
+781,LOTR/7,Lord of the Rings,Gimli
+782,LOTR/8,Lord of the Rings,Legolas
+783,LOTR/9,Lord of the Rings,Pippin Took
+784,LOTR/10,Lord of the Rings,Gollum
+785,MCU/1,Marvel Cinematic Universe,Tony Stark
+786,MCU/2,Marvel Cinematic Universe,Captain America
+787,MCU/3,Marvel Cinematic Universe,Black Widow
+788,MCU/4,Marvel Cinematic Universe,Bruce Banner
+789,MCU/5,Marvel Cinematic Universe,Captain Marvel
+790,MCU/6,Marvel Cinematic Universe,Thor
+791,MCU/7,Marvel Cinematic Universe,Nick Fury
+792,MCU/8,Marvel Cinematic Universe,Dr. Strange
+793,MCU/9,Marvel Cinematic Universe,Black Panther
+794,MCU/10,Marvel Cinematic Universe,Gamora
+795,MCU/11,Marvel Cinematic Universe,Thanos
+796,MCU/12,Marvel Cinematic Universe,Peggy Carter
+797,MCU/13,Marvel Cinematic Universe,Loki
+798,MCU/14,Marvel Cinematic Universe,Hawkeye
+799,MCU/15,Marvel Cinematic Universe,Peter Jason Quill
