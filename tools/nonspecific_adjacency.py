@@ -1,27 +1,20 @@
-from collections import Counter
+from __future__ import annotations
 
-import nltk
 import numpy as np
 import pandas as pd
-from nltk.corpus import wordnet as wn
-from nltk import pos_tag, word_tokenize
+from nltk import pos_tag
 import os
 
-# You can comment out the below after you've run the code once. It saves
-# files the nltk library needs in an nltk specific directory in your home
-# directory. If you don't like having that directory there, you can just
-# delete it after you've used the nltk library to run some code and it won't
-# cause any problems.
-# nltk.download('wordnet')
-# nltk.download('averaged_perceptron_tagger')
-# nltk.download('tagsets')
-# nltk.download('punkt')
+import parameters as p
+from tools.preprocessing import tag_w_pos_nlp, load_and_prep_files
 
-directory = './texts'
+TEXTS_DIR = p.TEXTS_DIR
 
-# All characters whose names appear at least 50 times in all three books.
-# Extracted by review of output from methods below.
-character_names = [
+
+def main():
+    # All characters whose names appear at least 50 times in all three books.
+    # Extracted by review of output from methods below.
+    character_names = [
     'frodo',
     'sam',
     'gandalf',
@@ -53,78 +46,22 @@ character_names = [
     'wormtongue',
     'isildur',
     'uglúk'
-]
-
-
-def get_processed_data(directory: str):
+    ]
     file_names = [
         'the_fellowship_of_the_ring_trimmed.txt',
         'the_return_of_the_king_trimmed.txt',
         'the_two_towers_trimmed.txt'
     ]
-
-    raw_text = ''
-
-    for file_name in file_names:
-        path = os.path.join(directory, file_name)
-        with open(path, 'r') as file:
-            raw_text += file.read()
-
-    # Convert multiples spaces, tabs, newlines, etc to single space
-    text = ' '.join(raw_text.split())
-
-    # Remove punctuation
-    punctuation = [
-        '~', '`', '!', '@', '#', '$', '%', '^', '&', '*',
-        '(', ')', '-', '_', '+', '=', '{', '[', '}', ']',
-        '|', '\\', ':', ';', '"', "'", '<', ',', '>', '.',
-        '?', '/', "’", '–', '‘', '“', '”', '—'
-    ]
-    for char in punctuation:
-        text = text.replace(char, '')
-
-    # Turns out that introduces some new multiple white spaces:
-    text = ' '.join(text.split())
-
-    # Remove numbers:
-    numbers = [
-        '1', '2', '3', '4', '5', '6', '7', '8', '9', '0'
-    ]
-    for number in numbers:
-        text = text.replace(number, '')
-
-    # Make it all lower case
-    text = text.lower()
-    text = text.split()
-
-    print(f"Text Length = {len(text)}")
-
-    vocabulary = list(set(text))
-
-    print(f"Vocabulary Length = {len(vocabulary)}")
-
-    word_counts = {
-        word: text.count(word) for word in vocabulary
-    }
-
-    return text, vocabulary, word_counts
-
-
-def print_words_with_counts(word_counts: dict[str, int],
-                            reverse: bool = True):
-    paired_data = sorted(
-        word_counts.items(), reverse=reverse, key=lambda pair: pair[1]
+    text, vocabulary, word_counts = load_and_prep_files(
+        file_names, TEXTS_DIR
     )
-    for word, count in paired_data:
-        print(f"{word}: {count}")
+    tokenized_text = tag_w_pos_nlp(text)
+    df = get_proximity_dataframe(tokenized_text, character_names)
+    df.to_csv('../output/lotr_adj_df_nlp_2021_11_03.csv')
+    pass
 
 
-def tag_w_pos(text: list[str]):
-    tokenized_text = pos_tag(text)
-    return tokenized_text
-
-
-def get_proximity_dataframe(text: list[str],
+def get_proximity_dataframe(text: list[tuple[str, str]],
                             targets: list[str],
                             window: int = 10) -> pd.DataFrame:
     neighbors = [
@@ -177,8 +114,5 @@ def get_proximity_dataframe(text: list[str],
     return df
 
 
-text, vocabulary, word_counts = get_processed_data(directory)
-tokenized_text = tag_w_pos(text)
-df = get_proximity_dataframe(tokenized_text, character_names)
-df.to_csv('lotr_adj_df_nlp_2021_11_03.csv')
-pass
+if __name__ == '__main__':
+    main()
