@@ -68,7 +68,7 @@ def get_proximity_dataframe(text: list[tuple[str, str]],
         if word[1] in ['JJ', 'JJR', 'JJS'] and word[1] not in targets
     ]
     exclude = targets + ['i', 'mr', 'ive', 's', 'nay', 'o', 'im', 'cant'
-                         'oh', 'sams', 'wont', 'yes', 'dun']
+                         'oh', 'sams', 'wont', 'yes', 'dun', 'mccrystal']
     neighbors = list(set(neighbors))
     data = {
         target: {neighbor: 0 for neighbor in neighbors}

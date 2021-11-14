@@ -62,7 +62,12 @@ lolita = {
         'barbara',
         'vivian',
         'jack',
-        'frederick'
+        'frederick',
+        'hh',
+        'lo',
+        'dolly',
+        'valechka',
+        'taximovich'
     ],
     'File Names' : [
         'lolita.txt'
@@ -89,14 +94,14 @@ pride_and_prejudice = {
     ]
 }
 
-the_accursed = {
-    'Character Names': [
-
-    ],
-    'File Names': [
-        'the_accursed.txt'
-    ]
-}
+# the_accursed = {
+#     'Character Names': [
+#
+#     ],
+#     'File Names': [
+#         'the_accursed.txt'
+#     ]
+# }
 
 the_sound_and_the_fury = {
     'Character Names': [
