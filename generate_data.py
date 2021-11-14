@@ -10,9 +10,17 @@ OUTPUT_DIR = p.OUTPUT_DIR
 
 
 def main():
-    generate_data(data.lord_of_the_rings, 'lotr_non_specific_adjacency')
-    generate_data(data.lolita, 'lolita_non_specific_adjacency')
+    # generate_data(data.lord_of_the_rings, 'lotr_non_specific_adjacency')
+    # generate_data(data.lolita, 'lolita_non_specific_adjacency')
     # generate_data(data.pride_and_prejudice, 'p_and_p_non_specific_adjacency')
+    generate_data(data.the_sound_and_the_fury,
+                  'the_sound_and_the_fury_non_specific_adjacency')
+    generate_data(data.the_gormenghast_trilogy,
+                  'the_gormenghast_trilogy_non_specific_adjacency')
+    generate_data(data.the_portrait_of_a_lady,
+                  'the_portrait_of_a_lady_non_specific_adjacency')
+    generate_data(data.the_inferno,
+                  'the_inferno_non_specific_adjacency')
 
 
 def generate_data(dataset: str,

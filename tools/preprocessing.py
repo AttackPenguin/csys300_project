@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import os
 
+import nltk
 import pandas as pd
 from nltk import pos_tag
 
